@@ -1,19 +1,19 @@
 h1 {
   color: blue;
-  text-align: center;
+  text-align:left;
 }
 h2 {
   color: green;
   font-style: italic;
-  text-align: center;
+  text-align:left;
 }
 p {
   font-family: sans-serif;
-  text-align: center;
+  text-align: left;
 }
 ul {
   line-height: 40px;
-  text-align: center;
+  text-align: left;
 }
 
 .important {
@@ -23,7 +23,7 @@ color: red;
 color: blue;
 }
 img {
-  float: center;
+  float: left;
 }
 
 .test-box {
