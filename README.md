@@ -1,16 +1,16 @@
-#PROJECT NAME
+# PROJECT NAME
 
 MY FIRST WEBSITE
 
-##NAME OF CONTRIBUTOR
+## NAME OF CONTRIBUTOR
 
 TRACY OGUTU
 
-###BRIEF DESCRIPTION
+### BRIEF DESCRIPTION
 
 This website is my first website. It is a test of learned concepts such as html,css, git and github.
 
-####SET UP INSTRUCTIONS
+#### SET UP INSTRUCTIONS
 1.Click the link https://atom.io/ to download atom
 2.Choose the download.deb option
 3.Open the downloaded file
@@ -19,10 +19,10 @@ This website is my first website. It is a test of learned concepts such as html,
 6.Navigate to the local repository where the project was cloned into
 7.Type the command atom . to launch atom 
 
-####LINK TO LIVE SITE ON GITHUB PAGES
+#### LINK TO LIVE SITE ON GITHUB PAGES
 https://tracyogutu.github.io/webpage/
 
-####COPYRIGHT AND LICENSE INFORMATION
+#### COPYRIGHT AND LICENSE INFORMATION
 
 Not applicable in this project
 
